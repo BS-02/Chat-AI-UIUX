@@ -29,16 +29,16 @@ To include these UI components in your project, follow these steps:
 npm run build
 ```
 
-### Usage
+## Usage
 To use this project, follow these steps:
 
-# Run the application:
+- Run the application:
 ```
 npm start
 ```
-#Open your browser and navigate to `http://localhost:3000`.
+- Open your browser and navigate to `http://localhost:3000`.
 
-#Explore the various pages and features available on the website.
+- Explore the various pages and features available on the website.
 
-### Customizing Styles
+## Customizing Styles
 Modify the CSS variables and styles to match your application's design. For example, you can change colors, fonts, and layout properties in the .css files.
