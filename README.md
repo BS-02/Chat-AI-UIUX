@@ -24,8 +24,10 @@ To include these UI components in your project, follow these steps:
  npm install react-icons
 ```
 
-* Build the Project (if applicable):
-``` npm run build ```
+* Build the application :
+```
+npm run build
+```
 
 ## Usage
 **HTML Integration**
