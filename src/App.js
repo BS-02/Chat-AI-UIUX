@@ -1,9 +1,8 @@
 import React from 'react';
-import { Footer, Possibility, Features, Header } from './containers';
+import { Footer, Possibility, Features, Header, Journal } from './containers';
 import { CTA, Navbar } from './components';
 
 import './App.css';
-import Case from './containers/case/Case';
 
 const App = () => (
   <div className="App">
@@ -12,11 +11,11 @@ const App = () => (
       <Header />
     </div>
     {/* <Brand /> */}
-    <Case />
+    <About />
     <Features />
     <Possibility />
     <CTA />
-    {/* <Blog /> */}
+    <Journal />
     <Footer />
   </div>
 );
