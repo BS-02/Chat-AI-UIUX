@@ -22,6 +22,7 @@ To include these UI components in your project, follow these steps:
 ```
  npm install 
  npm install react-icons
+ npm install react-router-dom
 ```
 
 **Build the application**:
