@@ -1,5 +1,5 @@
 import React from 'react';
-import { Footer, Possibility, Features, Header, Journal } from './containers';
+import { Footer, About, Possibility, Features, Header, Journal } from './containers';
 import { CTA, Navbar } from './components';
 
 import './App.css';
