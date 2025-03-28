@@ -1,6 +1,11 @@
-# Getting Started with Create React App: Chat AI
+# Getting Started with Create React App: NeuralUX
 
-Chat-AI-UIUX is a cutting-edge web application designed to showcase the future possibilities of AI. This project focuses on providing an intuitive and visually appealing user interface and user experience (UI/UX) to explore the limitless potential of AI technologies.
+NeuralUX is a cutting-edge web application designed to showcase modern UI/UX design trends inspired by AI. This project focuses on providing an intuitive and visually appealing user interface while maintaining responsiveness, accessibility, and customization flexibility.
+
+> **Note:** This project was previously named **Chat-AI-UIUX**, but it has been renamed as **NeuralUX** to better reflect its focus on UI/UX rather than AI functionalities.
+
+## Design 🎨
+This project is based on a pre-designed Figma UI, ensuring a clean, modern, and user-friendly interface. The goal was to faithfully implement the Figma design into a fully responsive website using JavaScript, HTML, and CSS.
 
 ## Features
 - **Responsive Design**: Optimized for various devices and screen sizes, ensuring a consistent user experience.
