@@ -38,8 +38,13 @@
     font-size: 18px;
     font-family: var(--font-family);
     line-height: 21px;
-    color: #fff;
+    color: #5251a0;
     word-spacing: 2px;
+}
+
+.footer-btn:hover {
+    background-color: white;
+    color: #5251a0; 
 }
 
 .footer-links {
@@ -58,25 +63,11 @@
     margin: 1rem;
 }
 
-/* .footer-links_logo {
-    display: flex;
-    flex-direction: column;
+.footer-links p:hover{
+    color: #5251a0; 
 }
 
-.footer-links_logo img {
-    width: 118px;
-    height: 30px;
-
-    margin-bottom: 1rem;
-}
-
-.footer-links_logo p {
-    font-family: var(--font-family);
-    font-size: 12px;
-    line-height: 15px;
-    color: #fff;
-} */
-.chatai{
+.neuralux{
     font-style:initial;
     color: #fff;
     font-weight: 500;

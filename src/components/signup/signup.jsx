@@ -2,7 +2,7 @@
 // import './signup.css';
 
 
-// const signup = ({ title, text }) => (
+// const signup = ({  }) => (
 
 // );
 

@@ -8,8 +8,8 @@ const Navbar = () => {
   return (
     <div className="navbar" role="navigation">
       <div className="navbar-links">
-        <div className="chatai">
-          <h1>Chat-AI</h1>
+        <div className="neuralux">
+          <h1>NeuralUX</h1>
         </div>
         <div className="navbar-links_container">
           <p><a href="#home">Home</a></p>

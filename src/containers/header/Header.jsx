@@ -13,9 +13,6 @@ const Header = () => (
         <button type="button">Get Started</button>
       </div>
 
-      {/* <div className="header-content__people">
-               <p>Over 1.5K people have joined us in the last 24 hours</p>
-      </div> */}
     </div>
 
     <div className="header-image">

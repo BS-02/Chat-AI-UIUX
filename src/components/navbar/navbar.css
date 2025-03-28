@@ -13,16 +13,15 @@
     align-items: center;
 }
 
-.chatai{
+.neuralux{
     display: flex;
     flex-direction: row;
     color: #fff;
     font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 30px;
-    line-height: 25px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
 }
-
 
 .navbar-links_container {
     display: flex;
@@ -35,9 +34,10 @@
     align-items: center;
 }
 
+
 .navbar-links_container p,
 .navbar-sign p,
-.navbar-menu_container p {
+.navbar-menu_container p{
     color: #fff;
     font-family: var(--font-family);
     font-weight: 500;
@@ -48,12 +48,21 @@
     margin: 0 1rem;
     cursor: pointer;
 }
+.navbar-links_container p:first-child {
+    margin-left: 4rem;
+}
+
+.navbar-links_container p:hover,
+.navbar-sign p:hover {
+    color: #5251a0;
+    transition: color 0.3s ease-in-out;
+}
 
 .navbar-sign button,
 .navbar-menu_container button {
     padding: 0.5rem 1rem;
     color: #fff;
-    background: #078488;
+    background: #5251a0;
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
@@ -62,6 +71,11 @@
     outline: none;
     cursor: pointer;
     border-radius: 5px;
+}
+
+.navbar-sign button:hover {
+    background-color: #bdbdc9;
+    color: #5251a0; 
 }
 
 .navbar-menu {
@@ -129,7 +143,7 @@
     .navbar-menu_container {
         top: 20px;
     }
-
+    
     .navbar-menu_container-links-sign {
         display: block;
     }

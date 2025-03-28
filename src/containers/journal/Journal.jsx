@@ -4,7 +4,7 @@ import { one, two, three, four, five } from "./journal_import";
 import "./journal.css";
 
 const Journal = () => (
-  <div className="journal section__padding" id="blog">
+  <div className="journal section__padding" id="journal">
     <div className="journal-heading">
       <h1 className="gradient__text">
         A lot is happening, <br /> We are blogging about it.

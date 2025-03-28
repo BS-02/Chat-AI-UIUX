@@ -65,8 +65,10 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
-    background: #078488;
-    border: 2px solid #078488;
+    background: #5251a0;
+    border: #5251a0;
+    /* background: #078488; */
+    /* border: 2px solid #078488; */
     padding: 0 1rem;
     color: #fff;
     cursor: pointer;
@@ -76,6 +78,10 @@
     border-bottom-right-radius: 5px;
 }
 
+.header-content__input button:hover {
+    background-color: #bdbdc9;
+    color: #5251a0; 
+}
 .header-content__people {
     width: 100%;
     display: flex;

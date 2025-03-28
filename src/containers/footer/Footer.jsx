@@ -12,8 +12,8 @@ const Footer = () => (
     </div>
 
     <div className="footer-links">
-      <div className="chatai">
-        <h1>Chat-AI</h1>
+      <div className="neuralux">
+        <h1>NeuralUX</h1>
       </div>
       <div className="footer-links_div">
         <h4>Links</h4>
@@ -36,7 +36,7 @@ const Footer = () => (
     </div>
 
     <div className="footer-copyright">
-      <p>@2024 Chat-AI. All rights reserved.</p>
+      <p>@2024 NeuralUX. All rights reserved.</p>
     </div>
   </div>
 );
