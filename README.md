@@ -4,6 +4,11 @@ NeuralUX is a cutting-edge web application designed to showcase modern UI/UX des
 
 > **Note:** This project was previously named **Chat-AI-UIUX**, but it has been renamed as **NeuralUX** to better reflect its focus on UI/UX rather than AI functionalities.
 
+## **Live Demo 🌐**
+👉 [NeuralUX Live Website](https://neuralux.netlify.app)
+
+----
+
 ## Design 🎨
 This project is based on a pre-designed Figma UI, ensuring a clean, modern, and user-friendly interface. The goal was to faithfully implement the Figma design into a fully responsive website using JavaScript, HTML, and CSS.
 
